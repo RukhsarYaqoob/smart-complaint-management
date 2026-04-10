@@ -1,6 +1,6 @@
 # 🚀 Smart Complaint Management System
 
-A modern web-based Complaint Management System that allows users to submit, track, and manage complaints efficiently. This platform provides an admin dashboard to monitor all complaints and streamline issue resolution.
+A modern web-based Complaint Management System that allows users to submit, track, and manage complaints efficiently. The platform includes a user panel for complaint submission and an admin dashboard for monitoring and resolving issues.
 
 ---
 
@@ -36,7 +36,40 @@ A modern web-based Complaint Management System that allows users to submit, trac
 
 ---
 
-### 🔐 Security & System
+## 🧑‍💻 My Contribution
+
+- Developed the complete frontend using **React.js** and **Tailwind CSS**
+- Designed responsive UI for both user and admin panels
+- Implemented forms, validation, and dashboard interfaces
+- Integrated backend APIs and managed application state using Context API
+
+> **Note:** Backend development was handled by a team member.
+
+---
+
+## 🤝 Team Work
+
+- Frontend: Developed by me  
+- Backend: Developed by team member  
+
+---
+
+## 🎨 Frontend Highlights
+- Built with React.js
+- Responsive and mobile-friendly UI
+- Reusable and clean component structure
+- State management using Context API
+
+---
+
+## ⚙️ Backend Highlights
+- Node.js & Express.js
+- MongoDB with Mongoose
+- Structured MVC architecture
+
+---
+
+## 🔐 Security & System
 - JWT-based authentication
 - Password hashing with bcrypt
 - Protected routes (user & admin)
@@ -45,15 +78,9 @@ A modern web-based Complaint Management System that allows users to submit, trac
 
 ---
 
-### 🎨 Frontend Highlights
-- Built with React.js
-- Responsive UI (mobile-friendly)
-- Clean and reusable components
-- State management using Context API
+## 🎥 Demo
+
+Watch the project demo here:  
+👉 (Add your video link here)
 
 ---
-
-### ⚙️ Backend Highlights
-- Node.js & Express.js
-- MongoDB with Mongoose
-- Structured MVC architecture

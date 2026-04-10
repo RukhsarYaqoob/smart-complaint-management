@@ -73,7 +73,7 @@ const AdminLogin = () => {
           <p className="text-purple-200">Secure administrative access</p>
         </div>
         {/* DEMO CREDENTIALS */}
-        <div className="mb-6 bg-yellow-400/10 border border-yellow-400/30 text-yellow-200 px-4 py-3 rounded-xl text-sm">
+        {/* <div className="mb-6 bg-yellow-400/10 border border-yellow-400/30 text-yellow-200 px-4 py-3 rounded-xl text-sm">
           <p className="font-semibold mb-1">Demo Credentials (For Recruiter)</p>
           <p>
             Username: <span className="font-mono">admin</span>
@@ -81,7 +81,7 @@ const AdminLogin = () => {
           <p>
             Password: <span className="font-mono">admin123</span>
           </p>
-        </div>
+        </div> */}
 
         {/* FORM */}
         <form onSubmit={handleSubmit} className="space-y-6">
