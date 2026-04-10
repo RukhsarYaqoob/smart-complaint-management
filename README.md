@@ -96,3 +96,53 @@ Smart Complaint Management System is a modern web-based platform designed to str
 ---
 
 
+## ⚙️ Installation & Setup
+
+Follow the steps below to run the project locally.
+
+### 1️⃣ Clone Repository
+
+```bash
+git clone https://github.com/your-username/smart-complaint-management-system.git
+cd smart-complaint-management-system
+```
+
+---
+
+### 2️⃣ Setup Backend
+
+```bash
+cd backend
+npm install
+```
+
+Create a **.env** file inside the backend folder:
+
+⚠️ Environment variables are not included for security reasons.
+Please create your own `.env` file using `.env.example`.
+
+Run backend server:
+
+```bash
+npm run dev
+```
+
+---
+
+### 3️⃣ Setup Frontend
+
+Open a new terminal:
+
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+---
+
+## 🔐 Environment Setup
+
+This project uses a demo database for portfolio purposes only.
+No sensitive or production data is stored.
+
