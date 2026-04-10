@@ -1,86 +1,98 @@
 # 🚀 Smart Complaint Management System
 
-A modern web-based Complaint Management System that allows users to submit, track, and manage complaints efficiently. The platform includes a user panel for complaint submission and an admin dashboard for monitoring and resolving issues.
+👉 **Project Demo:**  
+https://www.youtube.com/watch?v=7Cyos7W3E7k&t=39s
 
 ---
 
-## 📌 Features
+## 📌 Overview
+
+Smart Complaint Management System is a modern web-based platform designed to streamline complaint submission, tracking, and resolution. It provides a user-friendly interface for users to submit complaints and a powerful admin dashboard for efficient management and monitoring.
+
+---
+
+## 🧑‍💻 Tech Stack
+
+### 🎨 Frontend
+- React.js
+- Tailwind CSS
+- React Router DOM
+- Context API
+- Axios
+
+### ⚙️ Backend
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+
+### 🔐 Authentication & Security
+- JWT Authentication
+- bcrypt Password Hashing
+- Protected Routes
+- RESTful APIs
+
+---
+
+## ✨ Features
 
 ### 👤 User Panel
-- User registration & login with JWT authentication
-- Submit complaints with title, description, category, and priority
-- Categories: Service, Technical, Staff, Delivery, Billing, Other
-- Priority levels: Low, Medium, High
-- View complaint status (Pending, In-Progress, Resolved, Closed)
-- Track complaint history with timestamps
-- View admin responses
+- User registration & login
+- Submit complaints with category & priority
+- Complaint status tracking
+- View complaint history
+- Admin response visibility
+
+**Categories**
+- Service
+- Technical
+- Staff
+- Delivery
+- Billing
+- Other
+
+**Priority Levels**
+- Low
+- Medium
+- High
 
 ---
 
 ### 🛠️ Admin Panel
-- Secure admin login with protected routes
-- Dashboard with complaint statistics (total, pending, resolved, etc.)
-- View and manage all user complaints
-- Filter by status, category, and priority
-- Assign complaints to departments or staff
-- Update complaint status with real-time changes
-- Respond to user complaints directly
+- Secure admin authentication
+- Dashboard analytics overview
+- Manage all complaints
+- Filter by status, category & priority
+- Assign complaints to departments
+- Update complaint status
+- Respond to users in real time
 
 ---
 
 ### 📊 Analytics
-- Category-wise complaint statistics
+- Category-wise statistics
 - Monthly complaint trends
-- Most frequent issues tracking
-- Priority-based insights and breakdown
+- Priority-based insights
+- Frequent issue tracking
 
 ---
 
 ## 🧑‍💻 My Contribution
 
-- Developed the complete frontend using **React.js** and **Tailwind CSS**
-- Designed responsive UI for both user and admin panels
-- Implemented forms, validation, and dashboard interfaces
-- Integrated backend APIs and managed application state using Context API
+- Developed complete **Frontend** using React.js & Tailwind CSS
+- Designed responsive UI for User & Admin panels
+- Implemented forms, validations & dashboards
+- Integrated backend APIs
+- Managed global state using Context API
 
-> **Note:** Backend development was handled by a team member.
+> Backend development was handled by a team member.
 
 ---
 
 ## 🤝 Team Work
-
-- Frontend: Developed by me  
-- Backend: Developed by team member  
-
----
-
-## 🎨 Frontend Highlights
-- Built with React.js
-- Responsive and mobile-friendly UI
-- Reusable and clean component structure
-- State management using Context API
+- **Frontend:** Developed by Me  
+- **Backend:** Developed by Team Member  
 
 ---
 
-## ⚙️ Backend Highlights
-- Node.js & Express.js
-- MongoDB with Mongoose
-- Structured MVC architecture
 
----
-
-## 🔐 Security & System
-- JWT-based authentication
-- Password hashing with bcrypt
-- Protected routes (user & admin)
-- Input validation & error handling
-- RESTful API architecture
-
----
-
-## 🎥 Demo
-
-Watch the project demo here:  
-👉 https://www.youtube.com/watch?v=7Cyos7W3E7k&t=39s
-
----
