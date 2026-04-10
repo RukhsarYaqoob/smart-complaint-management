@@ -103,8 +103,8 @@ Follow the steps below to run the project locally.
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/smart-complaint-management-system.git
-cd smart-complaint-management-system
+git clone https://github.com/RukhsarYaqoob/smart-complaint-management.git
+cd smart-complaint-management
 ```
 
 ---
