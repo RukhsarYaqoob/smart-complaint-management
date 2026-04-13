@@ -14,12 +14,13 @@ Smart Complaint Management System is a modern web-based platform designed to str
 ---
 ## 📂 Project Structure
 
+```bash
 smart-complaint-management-system/
 │
 ├── frontend/        # React Application
 │
 └── backend/         # Node.js & Express API
-
+```
 ---
 
 ## 🧑‍💻 Tech Stack
