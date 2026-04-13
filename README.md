@@ -1,13 +1,24 @@
 # 🚀 Smart Complaint Management System
 
-👉 **Project Demo:**  
-https://www.youtube.com/watch?v=7Cyos7W3E7k&t=39s
+## 🎥 Project Demo
+
+▶️ Watch Demo:  
+👉 https://www.youtube.com/watch?v=7Cyos7W3E7k&t=39s
 
 ---
 
 ## 📌 Overview
 
 Smart Complaint Management System is a modern web-based platform designed to streamline complaint submission, tracking, and resolution. It provides a user-friendly interface for users to submit complaints and a powerful admin dashboard for efficient management and monitoring.
+
+---
+## 📂 Project Structure
+
+smart-complaint-management-system/
+│
+├── frontend/        # React Application
+│
+└── backend/         # Node.js & Express API
 
 ---
 
@@ -65,7 +76,7 @@ Smart Complaint Management System is a modern web-based platform designed to str
 - Filter by status, category & priority
 - Assign complaints to departments
 - Update complaint status
-- Respond to users in real time
+- Provide real-time responses to user complaints
 
 ---
 
